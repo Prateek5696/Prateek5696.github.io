@@ -1,0 +1,104 @@
+ <div class="container">
+        <div class="row  d-none d-sm-block  p-1 bg-primary text-white ">
+            <ul>
+                <li>
+                    <font>Meme</font>.Market
+                </li>
+            </ul>
+        </div>
+        <div class="row text-center d-none d-sm-block">
+            <h1>Create.Share.<span>Win.</span></h1>
+        </div>
+        <div class="row d-none d-sm-block bg-primary text-white  text-center pt-2 px-2 ">
+            <ul>
+                <li>Join the fastest growing online community dedicated to creating the highest quality memes
+                    to share within the world! Submit your Creations and compete with the community to win prices
+                </li>
+                <li><u>Prices!</u></li>
+            </ul>
+        </div>
+        <div class="row text-center d-none d-sm-block mt-2">
+            <ul>
+                <li>Returing Memer?</li>
+                <!-- <button type="button" class="btn btn-primary ">Come on in!</button> -->
+                <div class="container">
+                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">Come
+                        on in!</button>
+                    <div class="modal" id="myModal">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Sign-In</h5>
+                                    <button type="button" data-bs-dismiss="modal" class="btn-close"></button>
+                                </div>
+                                <div class="modal-body">
+                                    <form>
+                                        <div class="form-group text-left">
+                                            <label for="exampleInputEmail1">Email address</label>
+                                            <input type="email" class="form-control" id="exampleInputEmail1"
+                                                aria-describedby="emailHelp" placeholder="Enter email">
+                                            <small id="emailHelp" class="form-text text-muted">We'll never share your
+                                                email with anyone else.</small>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="exampleInputPassword1">Password</label>
+                                            <input type="password" class="form-control" id="exampleInputPassword1"
+                                                placeholder="Password">
+                                        </div>
+                                        <div class="form-check">
+                                            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                                            <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                                        </div>
+                                        <button type="submit" class="btn btn-primary">Login</button>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <li>Don't have an account?<span><u> Sign Up</u></span></li>
+                <li><span><u>continue as guest</u></span></li>
+            </ul>
+            <h3 class="text-primary">Hol up Did you say Prices?</h3>
+        </div>
+        <div class="row  ">
+            <img src="3h6fye.png" class="col-6  px-0  d-none d-sm-block " alt="">
+            <div class="col-6 bg-primary px-2 text-white  d-none d-sm-block ">
+                <h2><samp>The</samp> WEEKLY GAME</h2>
+                <ol>
+                    <li>Upload your best Tesla memes</li>
+                    <li>Tag you meme with "tesla"</li>
+                    <li>1 upvote =1 point, so invite all your friends to upvote your memes!</li>
+                </ol>
+            </div>
+            <div class="col-6 bg-primary px-2 text-white  d-none d-sm-block ">
+                <ol>
+                    <h2>PRIZE</h2>
+                    <li>1st place: $500 Bitcoin</li>
+                    <li>2nd place: $50 Bitcoin</li>
+                    <li>3rd place: $25 Bitcoin</li>
+                </ol>
+            </div>
+            <img src="Elon-bitcoin.png" class="col-6  d-none d-sm-block  px-0" alt="">
+        </div>
+        <div class="row offset-2 d-none d-sm-block col-10 ml-2">
+            <ol>
+                <h2> <samp>The</samp> DAILY GAME</h2>
+                <li>Post Memes.Earn points.Win prices.</li>
+                <li>Create quality content & help us grow the community</li>
+                <li>Climb the top 100 leaderboard</li>
+            </ol>
+        </div>
+        <div class="row bg-primary text-white d-none d-sm-block">
+            <ul>
+                <li>
+                    <front>Create a meme | Leaderboards | Contests</front>
+                </li>
+            </ul>
+        </div>
+        <div class="row footer d-none d-sm-block">
+            <ul>
+                <li>Privacy Policy | About Us | Contact Us</li>
+            </ul>
+        </div>
+    </div>

@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.row ul{
+/* text-decoration: none; */
+list-style: none;
+}
+.row font{
+    font-weight: 800;
+}
+.row h2{
+    font-size: 40px;
+}
+.row span{
+    color: rgb(13,110,253);
+    font-weight: 500;
+}
+.row a{
+    font-size: 18px;
+}
+.row h1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 56px;
+    letter-spacing: 2px;
+}
+.row front{
+    font-size: 25px;
+}
+.footer{
+    font-size: 25px;
+}
+.row samp{
+    font-size: 20px;
+}

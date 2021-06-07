@@ -1,0 +1,12 @@
+*{
+ list-style: none;  
+ /* overflow: hidden; */
+ margin: 0;
+ padding: 0; 
+}
+.row{
+    display: flex;
+}
+.row a{
+    text-decoration: none;
+}
